@@ -211,8 +211,8 @@ a {
 	width: 250px;
 	height: 70px;
 	position: absolute;
-	left: 335px;
-	top: 340px;
+	left: 338px;
+	top: 545px;
 }
 
 .Home_connectBtn__q4_OB {
@@ -301,7 +301,7 @@ a {
 
 .Home_sendCheck__xMz4p {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/check.98473459.png);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/check1.47e01656.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 43px;
@@ -337,7 +337,7 @@ a {
 
 .Home_succes__k1IzW {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/succes.b807379f.png);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/succes1.6478330c.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 180px;
@@ -698,7 +698,7 @@ a {
 
 .Home_closeGet__qG2td {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/close1.d53dfd26.png);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/close3.67910b49.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 50px;
@@ -710,7 +710,7 @@ a {
 
 .Home_closeGet__qG2td:hover {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/close2.32b044a6.png);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/close4.ea3321c1.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 50px;
@@ -722,7 +722,7 @@ a {
 
 .Home_closeSend__b_1LB {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/close1.d53dfd26.png);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/close3.67910b49.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 50px;
@@ -734,7 +734,7 @@ a {
 
 .Home_closeSend__b_1LB:hover {
 	display: block;
-	background-image: url(/04-zkapp-browser-ui/_next/static/media/close2.32b044a6.png);
+	background-image: url(/04-zkapp-browser-ui/_next/static/media/close4.ea3321c1.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 50px;
